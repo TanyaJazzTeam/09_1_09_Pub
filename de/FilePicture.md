@@ -33,7 +33,7 @@ Du kannst auch:
 - Ziehen Sie Markdown- und HTML-Dateien per Drag-and-Drop in Dillinger
 - Exportieren Sie Dokumente als Markdown, HTML und PDF
 
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
+Markdown ist eine leichtgewichtige Auszeichnungssprache, die auf den Formatierungskonventionen basiert, die Menschen normalerweise in E-Mails verwenden. Wie [John Gruber] auf der [Markdown-Site][df1] schreibt
 
 > Das übergeordnete Designziel für die Formatierungssyntax von Markdown besteht darin, sie so lesbar wie möglich zu machen. Die Idee ist, dass ein Markdown-formatiertes Dokument so wie es ist, als reiner Text veröffentlicht werden kann, ohne dass es so aussieht, als wäre es mit Tags oder Formatierungsanweisungen markiert worden.
 
